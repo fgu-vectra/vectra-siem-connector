@@ -1,0 +1,6 @@
+__pycache__/
+**/*.pyc
+*.pickle
+connector/app_logs/*.log
+connector/vectra_logs/*.json
+*.bak
